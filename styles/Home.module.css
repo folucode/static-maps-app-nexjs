@@ -11,7 +11,10 @@
   justify-content: center;
   align-items: center;
 }
-
+.imageContainer {
+  width: 400px;
+  height: 400px;
+}
 .footer {
   display: flex;
   flex: 1;
