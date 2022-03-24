@@ -5,7 +5,7 @@ export default function Home() {
       <img
         src='https://maps.googleapis.com/maps/api/staticmap?center=48.8584,2.294694&zoom=16&size=400x400&key=${Your_api_key}&markers=color:red|label:S|48.8587,2.293710'
 
-        alt='World Trade Center'
+        alt='Effiel Tower'
       />
     </div>
   );
